@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetroFit</string>
+    <string-array name="rest">
+        <item>GET</item>
+        <item>POST</item>
+        <item>PUT</item>
+    </string-array>
+</resources>
